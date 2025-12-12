@@ -1,7 +1,7 @@
 # AnirudhPrasadh.github.io
 
 **Author**: Anirudh Prasadh
-**Last Updated:** 12/12/2025
+\n**Last Updated:** 12/12/2025
 
 This is my demo repository for learning and setting up Git
 
