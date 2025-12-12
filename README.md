@@ -15,3 +15,4 @@ I want a bulleted list
 * item 1
 * item 2
 
+![EmploymentRate](/employment_rates_by_education_new.png)
